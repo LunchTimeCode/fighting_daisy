@@ -2,6 +2,10 @@
 name = "fighting_daisy"
 version = "0.1.0"
 edition = "2024"
+authors = ["Silen Locatelli", "LunchTime Code"]
+license = "MIT"
+description = "Library for fighting daisies"
+
 
 [dependencies]
 maud = "0.27.0"
